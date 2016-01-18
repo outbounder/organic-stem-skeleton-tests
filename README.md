@@ -6,6 +6,6 @@ Repo holding tests of [organic-stem-skeleton](https://github.com/outbounder/orga
 
 1. create `stemskeleton.json`
 
-> echo '"/full/path/to/stem-skeleton"' > stemskeleton.json
+  > echo '"/full/path/to/stem-skeleton"' > stemskeleton.json
 
 2. ___optimize performance___ and install all stack upgrades to your local stem-skeleton
